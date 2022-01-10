@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1: tvg-id="galxytv_EPGCinepride" tvg-name="CinePride" tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/hAWYM7F3QL1eYpn53UYdlLRXTjMUVKrB001poodr.png" group-title="galxyTV: Entertainment",CinePride
+https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
+#EXTINF:-1: tvg-id="galxytv_EPGDUNGEON TV" tvg-name="Dungeon" tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/uofebYTFJ0XtmiC8OG7MW4eZvAZrobmOyLDxdtTu.png" group-title="galxyTV: Entertainment",Dungeon
+https://content.uplynk.com/channel/5688add7ce704ce1a27ab62bb44044b9.m3u8
+#EXTINF:-1: tvg-id="galxytv_EPGEl Conflicto Tv" tvg-name="El Conflicto!" tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/WDIFirclv0BvLYHbopJqX3PM2YtJzizRYzPXE2yj.png" group-title="galxyTV: Entertainment",El Conflicto!
+https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
+#EXTINF:-1: tvg-id="galxytv_EPGScreen Dreams" tvg-name="Screendreams" tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/Cr1KRm1CC0TD3Od6HTrgn68WR42pG2c1a0ZsA0C4.png" group-title="galxyTV: Entertainment",Screendreams
+https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
+#EXTINF:-1: tvg-id="galxytv_EPGBusiness Rockstars" tvg-name="Business Rockstars" tvg-logo="https://galxy.tv/storage/live-tv/channel-logos/iFHe67qsFks6oW3CoJqgmT5DgTzRdNKACnJzTl8j.png" group-title="galxyTV: Informative",Business Rockstars
+https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
+#EXTINF:-1: tvg-id="galxytv_EPGWatchit Scream!" tvg-name="Watch it Scream !" tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/bAD6zfRE1r2H6Oue1BBFPO5AK4dsQZTEy6Sava2e.png" group-title="galxyTV: Movies",Watch it Scream !
+https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8
+#EXTINF:-1: tvg-id="galxytv_EPGGALXY TV" tvg-name="GalxyTV" tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/3v9Fboy3ZCKgWU9yWXOKkLIbA0fAXcKqXoj4mT4k.png" group-title="galxyTV: Movies",GalxyTV
+https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
+#EXTINF:-1: tvg-id="galxytv_EPGFright Flix" tvg-name="FrightFlix" tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/cRLgVMvkZwozTTg0Bs0151KxArVv1lYuNA7IIdjr.png" group-title="galxyTV: Movies",FrightFlix
+https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
+#EXTINF:-1: tvg-id="galxytv_EPGWatchit Kid!" tvg-name="Watch itKid!" tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/thXaxvhTCZ59IhqUodrjuWjrC8KcGYvxklzrZpaN.png" group-title="galxyTV: Kids",Watch it.Kid!
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+#EXTINF:-1: tvg-id="galxytv_EPGZAZ" tvg-name="ZAS" tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/F8Iqr52ZIRs4CvmEm8ToQ0GuMw7oFXWTEaQUz3lK.png" group-title="galxyTV: Kids",ZAS
+https://content.uplynk.com/channel/878c7df3e41d4cf995be7120d0da84a8.m3u8
+#EXTINF:-1: tvg-id="galxytv_EPGSlopes" tvg-name="Slopes" tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/G9fcAQadF6IcSqAvLQjkdfkhSo3kH3XIGSgzcQpf.png" group-title="galxyTV: Sports",Slopes
+https://content.uplynk.com/channel/b24d76aa33a64c0390d5c75c2c7cda42.m3u8
+#EXTINF:-1: tvg-id="galxytv_EPGXFC NETWORK" tvg-name="XFCTV Fightworld" tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/aZ8E901m6tI7l39R1B4ohX3fQy19HLBrGspdqxQ3.png" group-title="galxyTV: Sports",XFCTV Fightworld
+https://content.uplynk.com/channel/9164ea45449b4e7797da0246cf80f563.m3u8
